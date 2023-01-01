@@ -4,7 +4,7 @@ This repo is made to fight YouTube removing dislikes. This happened a long time 
 
 # How does this work?
 
-Grab the JavaScript code right [here](#).<br>
+Grab the JavaScript code right [here](https://gist.github.com/ArxifyByte/f2dd40c8827974509390c04fc2fb5eee).<br>
 
 Head over to [Google Apps Script](https://script.google.com) and log in with your YouTube channel's email address. <br>
 
@@ -16,7 +16,7 @@ Head over to the Services tab in the left-hand menu and add the "YouTube Data AP
 
 [![adding the youtube api](https://cdn.upload.systems/uploads/56fDBB36.png)](https://script.google.com)<br>
 
-Remove all of the current code on the script and paste the JavaScript code that you grabbed earlier. (if you didn't, press [here](#))<br>
+Remove all of the current code on the script and paste the JavaScript code that you grabbed earlier. (if you didn't, press [here](https://gist.github.com/ArxifyByte/f2dd40c8827974509390c04fc2fb5eee))<br>
 
 Grab your YouTube video link, remove the `https://www.youtube.com/watch?v=` part and save the part of the URL that you have now for later.<br>
 

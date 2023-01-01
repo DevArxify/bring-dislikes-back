@@ -12,4 +12,6 @@ Create a new project.<br><br>
 [![create a new project in google apps script](https://cdn.upload.systems/uploads/dCSnPwbg.png)](https://script.google.com)<br>
 
 Head over to the Services tab in the left-hand menu and add the "YouTube Data API v3" service.<br><br>
-[![adding the youtube api](https://cdn.upload.systems/uploads/UPfV3F2B.png)](https://script.google.com)
+[![adding the youtube api](https://cdn.upload.systems/uploads/UPfV3F2B.png)](https://script.google.com)<br>
+
+[![adding the youtube api](https://cdn.upload.systems/uploads/56fDBB36.png)](https://script.google.com)

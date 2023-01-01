@@ -34,5 +34,5 @@ Press "Add Trigger" on the bottom right corner.<br>
 Make sure your settings are the same as mine and press save.<br><br>
 [![trigger settings](https://cdn.upload.systems/uploads/kj0VxZq4.png)](https://script.google.com)
 
-# Done
-And boom! You now have your video's dislike count in the description. Hope this helps & let's fight YouTube until they bring back dislikes.
+# DON'T CLOSE THE PAGE YET!
+If you followed all of the steps on this guide, make sure to [Tweet](https://twitter.com/intent/tweet/?text=&url=hey!%20I%20just%20made%20myself%20a%20volunteer%20of%20the%20Bring%20Dislikes%20Back%20campaign.%20here%27s%20my%20screenshot!%20@DevArxify) out that you did so with a screenshot of evidence. Hope this script helps! :)
